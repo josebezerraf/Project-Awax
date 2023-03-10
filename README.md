@@ -1,3 +1,3 @@
-Projeto de estudo em desenvolvimento do curso de HTML5 e CSS3 da B7Web.
+Projeto de estudo do curso de HTML5 e CSS3 da B7Web.
 
 Site Awax utilizando flexbox e HTML semântico. 
